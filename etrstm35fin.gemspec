@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Karri Niemelä"]
   spec.email         = ["kakoni@gmail.com"]
   spec.summary       = %q{ETRS-TM35FIN to WGS84 coordinates conversion.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/kakoni/etrstm35fin"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
