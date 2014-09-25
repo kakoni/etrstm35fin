@@ -1,6 +1,6 @@
 # Etrstm35fin
 
-Converters coordinates from Finnish ETRS-TM35FIN coordinate system into WGS84.
+Converts coordinates from Finnish ETRS-TM35FIN coordinate system into WGS84.
 
 ## Installation
 
@@ -24,6 +24,12 @@ For given north and east coordinates return latitude and longitude.
 ``` ruby
 Etrstm35fin.to_wgs84(6711804, 240724)
 ```
+
+## Kudos
+This code is based on the works of
+- CPAN package Matti Lattu: http://search.cpan.org/~mplattu/Geo-Coordinates-ETRSTM35FIN-0.01/lib/Geo/Coordinates/ETRSTM35FIN.pm 
+and 
+- Olli Lammi http://olammi.iki.fi/sw/fetch_map/
 
 ## Contributing
 
