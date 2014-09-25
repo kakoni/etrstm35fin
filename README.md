@@ -26,10 +26,7 @@ Etrstm35fin.to_wgs84(6711804, 240724)
 ```
 
 ## Kudos
-This code is based on the works of
-- CPAN package Matti Lattu: http://search.cpan.org/~mplattu/Geo-Coordinates-ETRSTM35FIN-0.01/lib/Geo/Coordinates/ETRSTM35FIN.pm 
-and 
-- Olli Lammi http://olammi.iki.fi/sw/fetch_map/
+This code is based on Matti Lattu's ETRSTM35FIN Perl module.  http://search.cpan.org/~mplattu/Geo-Coordinates-ETRSTM35FIN-0.01/lib/Geo/Coordinates/ETRSTM35FIN.pm 
 
 ## Contributing
 
