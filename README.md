@@ -1,6 +1,6 @@
 # Etrstm35fin
 
-TODO: Write a gem description
+Converters coordinates from Finnish ETRS-TM35FIN coordinate system into WGS84.
 
 ## Installation
 
@@ -19,8 +19,11 @@ Or install it yourself as:
     $ gem install etrstm35fin
 
 ## Usage
+For given north and east coordinates return latitude and longitude.
 
-TODO: Write usage instructions here
+``` ruby
+Etrstm35fin.to_wgs84(6711804, 240724)
+```
 
 ## Contributing
 
